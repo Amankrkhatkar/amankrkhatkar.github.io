@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Your Name - Portfolio</title>
+  <title>Aman khatkar</title>
   <style>
     body {
       font-family: 'Arial', sans-serif;
@@ -52,13 +51,13 @@
 <body>
 
   <header>
-    <h1>Your Name</h1>
+    <h1>Aman khatkar</h1>
     <p>Web Developer & Designer</p>
   </header>
 
   <section class="about-me">
     <h2>About Me</h2>
-    <p>Your introduction and a brief summary of your skills and experiences.</p>
+    <p>Updating soon my about section</p>
   </section>
 
   <section class="my-work">
@@ -80,7 +79,7 @@
   </section>
 
   <footer>
-    <p>&copy; 2023 Your Name. All rights reserved.</p>
+    <p>&copy; 2023 Amankrkhatkar All rights reserved.</p>
   </footer>
 
 </body>
